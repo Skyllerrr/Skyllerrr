@@ -23,10 +23,7 @@
 
 ### ⏲️ GitHub-States
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Skyllerrr&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=Skyllerrr&layout=compact&theme=dracula)
-
-<br>
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Skyllerrr&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars) ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=Skyllerrr&layout=compact&theme=dracula)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyllerrr)](https://github.com/Skyllerrr/github-readme-stats)
@@ -36,8 +33,6 @@
 <!--
 <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
 -->
-
-<br>
 
 <!--
 **Skyllerrr/Skyllerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
