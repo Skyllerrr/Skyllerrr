@@ -15,7 +15,7 @@
 
 <br>
 
-### 📫 Contact (Image Click -> Link)
+### 📫 Contact
 
 <a href="https://velog.io/@skyllerrr"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://www.notion.so/078923bdfc674557a3d1e13d61a71ef4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
