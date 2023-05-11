@@ -2,10 +2,11 @@
 
 <div align="center">
 <br>
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=71C7EC&center=true&vCenter=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
   
 </div>
+
 <br>
 
 ### 🔨 Technology Stacks
@@ -20,9 +21,23 @@
 
 <br>
 
+### ⏲️ GitHub-States
+
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Skyllerrr&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=Skyllerrr&layout=compact&theme=dracula)
 
+<br>
+
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyllerrr)](https://github.com/Skyllerrr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyllerrr)](https://github.com/Skyllerrr/github-readme-stats)
+-->
+
+<!--
+<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
+-->
+
+<br>
 
 <!--
 **Skyllerrr/Skyllerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
