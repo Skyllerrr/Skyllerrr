@@ -3,7 +3,7 @@
 <div align="center">
 <br>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=71C7EC&center=true&vCenter=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=3399FF&center=true&vCenter=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
   
 </div>
 
